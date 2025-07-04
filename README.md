@@ -37,7 +37,7 @@ https://github.com/user-attachments/assets/1b63e5ae-3c7d-407f-80ba-5c69a4243375
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/bg-color-changer.git
+   git clone https://github.com/sanjitxdutta/bg-color-changer.git
    cd bg-color-changer
 
 ---
